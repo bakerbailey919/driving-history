@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.28307.572
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DrivingHistory", "DrivingHistory\DrivingHistory.csproj", "{07551DD0-E88B-4CB4-9E6C-818A8F32C5A7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DrivingHistory", "DrivingHistory\DrivingHistory.csproj", "{07551DD0-E88B-4CB4-9E6C-818A8F32C5A7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DrivingHistory.Tests", "DrivingHistory.Tests\DrivingHistory.Tests.csproj", "{765C60A5-1A41-4578-A19A-B5B9E7D6E766}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{07551DD0-E88B-4CB4-9E6C-818A8F32C5A7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{07551DD0-E88B-4CB4-9E6C-818A8F32C5A7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{07551DD0-E88B-4CB4-9E6C-818A8F32C5A7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{765C60A5-1A41-4578-A19A-B5B9E7D6E766}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{765C60A5-1A41-4578-A19A-B5B9E7D6E766}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{765C60A5-1A41-4578-A19A-B5B9E7D6E766}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{765C60A5-1A41-4578-A19A-B5B9E7D6E766}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
